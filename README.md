@@ -5,7 +5,7 @@
 ### Steps
  
 1. **Open MediaPipe Studio**
-   Go to 👉 [https://mediapipe-studio.webapps.google.com/studio/demo/hand_landmarker](https://mediapipe-studio.webapps.google.com/studio/demo/hand_landmarker)
+   Go to [https://mediapipe-studio.webapps.google.com/studio/demo/hand_landmarker](https://mediapipe-studio.webapps.google.com/studio/demo/hand_landmarker)
 2. **Upload the model**
    - In the left panel, click **"Change model"**
    - Select **"Upload custom model"**
