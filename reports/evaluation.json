@@ -1,0 +1,250 @@
+{
+  "dataset": "/home/ubuntu/islr_work/ISLR/islr_data_sample",
+  "total_images": 593,
+  "class_counts": {
+    "A": 18,
+    "B": 18,
+    "C": 18,
+    "D": 18,
+    "E": 18,
+    "F": 18,
+    "G": 18,
+    "H": 18,
+    "I": 18,
+    "J": 18,
+    "K": 18,
+    "L": 18,
+    "M": 18,
+    "N": 18,
+    "O": 18,
+    "P": 18,
+    "Q": 18,
+    "R": 18,
+    "S": 18,
+    "T": 18,
+    "U": 18,
+    "V": 18,
+    "W": 18,
+    "X": 18,
+    "Y": 18,
+    "Z": 18,
+    "none": 125
+  },
+  "labels": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M",
+    "N",
+    "O",
+    "P",
+    "Q",
+    "R",
+    "S",
+    "T",
+    "U",
+    "V",
+    "W",
+    "X",
+    "Y",
+    "Z",
+    "none"
+  ],
+  "mediapipe_hand_detection_rate": 0.9831365935919055,
+  "holdout_fraction": 0.25,
+  "random_seed": 42,
+  "cv_best_macro_f1": 0.9614890857040617,
+  "best_params": {
+    "classifier__C": 100,
+    "classifier__gamma": "auto"
+  },
+  "heldout_accuracy": 0.9664429530201343,
+  "heldout_macro_f1": 0.9676072898295119,
+  "heldout_report": {
+    "A": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 4.0
+    },
+    "B": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 4.0
+    },
+    "C": {
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1-score": 0.6666666666666666,
+      "support": 4.0
+    },
+    "D": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 5.0
+    },
+    "E": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 5.0
+    },
+    "F": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 4.0
+    },
+    "G": {
+      "precision": 0.5555555555555556,
+      "recall": 1.0,
+      "f1-score": 0.7142857142857143,
+      "support": 5.0
+    },
+    "H": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 5.0
+    },
+    "I": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 4.0
+    },
+    "J": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 4.0
+    },
+    "K": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 5.0
+    },
+    "L": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 4.0
+    },
+    "M": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 4.0
+    },
+    "N": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 4.0
+    },
+    "O": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 5.0
+    },
+    "P": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 5.0
+    },
+    "Q": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 4.0
+    },
+    "R": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 5.0
+    },
+    "S": {
+      "precision": 1.0,
+      "recall": 0.8,
+      "f1-score": 0.8888888888888888,
+      "support": 5.0
+    },
+    "T": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 5.0
+    },
+    "U": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 5.0
+    },
+    "V": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 5.0
+    },
+    "W": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 5.0
+    },
+    "X": {
+      "precision": 0.8,
+      "recall": 1.0,
+      "f1-score": 0.8888888888888888,
+      "support": 4.0
+    },
+    "Y": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 4.0
+    },
+    "Z": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 5.0
+    },
+    "none": {
+      "precision": 1.0,
+      "recall": 0.9354838709677419,
+      "f1-score": 0.9666666666666667,
+      "support": 31.0
+    },
+    "accuracy": 0.9664429530201343,
+    "macro avg": {
+      "precision": 0.9761316872427983,
+      "recall": 0.97168458781362,
+      "f1-score": 0.9676072898295119,
+      "support": 149.0
+    },
+    "weighted avg": {
+      "precision": 0.9797166293810587,
+      "recall": 0.9664429530201343,
+      "f1-score": 0.9678171939916906,
+      "support": 149.0
+    }
+  },
+  "model_type": "MediaPipe Hands landmarks + scikit-learn SVM (not a .task export)"
+}

@@ -1,0 +1,19 @@
+# Wi-Fi credentials: copy secrets.example.h to secrets.h
+firmware/esp32_cam_stream/secrets.h
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local data and training scratch
+islr_data_sample/
+dataset/
+data/
+
+# Editor and OS files
+.DS_Store
+.vscode/
+.idea/
